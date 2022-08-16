@@ -17,7 +17,7 @@ result = game_of_life.run( # chamada do método de execução
 print(result) # exibição do resultado da execução, se estiver tudo correto retornará verdadeiro
 	</code>
 </pre>
-<img src="https://github.com/aiquantumneuro/neurociencia_computacional/blob/main/game_of_life.png">
+<img src="https://github.com/grupoquantum/neurociencia_computacional/blob/main/game_of_life.png">
 </p>
 <p align="justify">
 Na primeira linha do código estamos importando da biblioteca Neuraline do módulo de Neurociência Computacional e de dentro do módulo estamos acessando o arquivo do Game of Life.
@@ -49,7 +49,7 @@ result = electroencephalography.plotBandSignals(
 print(result) # exibição do resultado da execução, se estiver tudo correto retornará verdadeiro
 	</code>
 </pre>
-<img src="https://github.com/aiquantumneuro/neurociencia_computacional/blob/main/electroencephalography.png">
+<img src="https://github.com/grupoquantum/neurociencia_computacional/blob/main/electroencephalography.png">
 </p>
 <p align="justify">
 <pre>
@@ -73,7 +73,7 @@ result = electroencephalography.plotBandWAV(
 print(result) # exibição do resultado da execução, se estiver tudo correto retornará verdadeiro
 	</code>
 </pre>
-<img src="https://github.com/aiquantumneuro/neurociencia_computacional/blob/main/electroencephalography_wav.png">
+<img src="https://github.com/grupoquantum/neurociencia_computacional/blob/main/electroencephalography_wav.png">
 <p align="justify">
 Observe que existe uma maior incidência de sinais correspondentes à frequência Alpha que é gerada quando uma pessoa está acordada e descansando. As ondas Beta são geradas quando uma pessoa está acordada executando alguma atividade, ondas do tipo Theta correspondem a sonolência e as do tipo Delta ao sono profundo.
 </p>
